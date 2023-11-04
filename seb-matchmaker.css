@@ -1,0 +1,21 @@
+/* 
+    Author: 
+    Sebastian Jaculbe 
+*/
+body {
+    color:beige;
+    background-color:darkred;
+    text-align: center;
+    font-family:"Times New Roman', Times, serif";
+    font-size: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+header {
+    text-align: center;
+    background-color:brown;
+    padding: 20px;
+    margin-left: -150px;
+    margin-right: -150px;
+    margin-top: -15px;
+}
